@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Valentin Bańobre Kalinowski  
+# Hi there 👋 I'm Valentin Bañobre Kalinowski  
 
 📍 Based in **Białystok, Poland**  
 📧 [valentinbanobre@gmail.com](mailto:valentinbanobre@gmail.com)  
