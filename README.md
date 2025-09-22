@@ -2,8 +2,7 @@
 
 📍 Based in **Białystok, Poland**  
 📧 [valentinbanobre@gmail.com](mailto:valentinbanobre@gmail.com)  
-🌐 [hirevalentin.com](https://hirevalentin.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/) • [GitHub](https://github.com/Waldkowski123)  
+🔗 [LinkedIn]( • [GitHub](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/)  
 
 ---
 
@@ -59,8 +58,7 @@ I thrive in team environments, continuously learning new technologies, and contr
 ---
 
 ## 📫 Get in Touch  
-- 💼 [LinkedIn](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/)  
-- 🌐 [hirevalentin.com](https://hirevalentin.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/)   
 - 📧 [valentinbanobre@gmail.com](mailto:valentinbanobre@gmail.com)  
 
 ---
