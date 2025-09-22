@@ -2,7 +2,7 @@
 
 📍 Based in **Białystok, Poland**  
 📧 [valentinbanobre@gmail.com](mailto:valentinbanobre@gmail.com)  
-🔗 [LinkedIn]( • [GitHub](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/)  
+🔗 [LinkedIn] • [GitHub](https://www.linkedin.com/in/valentin-ba%C3%B1obre-kalinowski-8155b01b9/)  
 
 ---
 
